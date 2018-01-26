@@ -6,7 +6,9 @@ L'API qui a été utilisé est "The Movie DB" (https://www.themoviedb.org).
 Github : En ce qui concerne le github, étant sur mac tous les deux nous partagions notre code via l'outil airdrop. C'est pourquoi nous avons décidé de push le tout sur github à la fin du projet.
 
 Emulateur (optimisé) : Nexus 4 API 26
+
 Version de l'APK : 26.0.1
+
 Compiles ajoutées : compile 'com.squareup.picasso:picasso:2.5.0'
                     compile 'com.android.support:recyclerview-v7:26.0.0'
                     
