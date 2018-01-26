@@ -37,7 +37,6 @@ repositories {
         // Alternative URL is 'https://dl.google.com/dl/android/maven2/'
     }
 }
-
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
