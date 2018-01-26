@@ -9,8 +9,7 @@ Emulateur (optimisé) : Nexus 4 API 26
 
 Version de l'APK : 26.0.1
 
-Compiles ajoutées : compile 'com.squareup.picasso:picasso:2.5.0'
-                    compile 'com.android.support:recyclerview-v7:26.0.0'
+Compiles ajoutées : compile 'com.squareup.picasso:picasso:2.5.0', compile 'com.android.support:recyclerview-v7:26.0.0'
                     
 gradle.app : 
 
